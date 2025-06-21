@@ -1,5 +1,8 @@
 # Ignore Visual Studio related files
-.vs/
+.vscode/
+.pytest_cache/
+*pycache*/
+
 
 # Ignore all .db files
 *.db
